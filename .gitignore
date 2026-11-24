@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+dashboard/node_modules/
+dashboard/dist/
+INTERVIEW_NOTES.md
